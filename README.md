@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Dishant Zaveri</h1>
-<h3 align="center">A passionate Web Developer(Mainly Backend) and App Developer(Flutter and React Native) from India</h3>
+<h3 align="center">A passionate AI ML and App Developer(Flutter and React Native) from India</h3>
 
 - 🔭 I’m currently working on **App Development**
 
 - 🌱 I’m currently learning **React Native and Dart**
 
-- 👯 I’m looking to collaborate on **Flutter and React Native Projects**
+- 👯 I’m looking to collaborate on **Flutter , React Native and Machine Learning Projects**
 
 - 📫 How to reach me **zaveridishant@gmail.com**
 
