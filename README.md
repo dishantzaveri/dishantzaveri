@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **App Development**
 
-- 🌱 I’m currently learning **React Native and Dart**
+- 🌱 I’m currently learning **Frontend Web Development**
 
 - 👯 I’m looking to collaborate on **Flutter , React Native and Machine Learning Projects**
 
