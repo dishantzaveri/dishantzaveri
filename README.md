@@ -9,11 +9,9 @@
 - 👯 I’m looking to collaborate on **Flutter , React Native and Machine Learning Projects**
 
 - 📫 How to reach me **zaveridishant@gmail.com**
-- 
 <p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=dishantzaveri&label=Profile%20views&color=0e75b6&style=flat"
     alt="dishantzaveri" /> 
-  </p>
-
+</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/dishantzaveri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dishantzaveri" height="30" width="40" /></a>
