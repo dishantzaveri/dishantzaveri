@@ -1,6 +1,12 @@
+<p>
+ <img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" width="400" height="400"/>
+<img src="https://github.com/kumarjeetray/kumarjeetray/blob/main/life_balance.gif" alt="side Image" align="right" width="400" height="400" />
+</p>
+<hr>
+<p>
+
 <h1 align="center">Hi 👋, I'm Dishant Zaveri</h1>
 <h3 align="center">A passionate AI ML and App Developer(Flutter and React Native) from India</h3>
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 - 🔭 I’m currently working on **App Development**
 
@@ -41,7 +47,7 @@
 <h1 align="center"> 🔥 Contributions: </h1>
 <p align="center">
  <a href="https://git.io/streak-stats" align="middle">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=kumarjeetray&theme=react&background=0d1117&border=666">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=dishantzaveri&theme=react&background=0d1117&border=666">
   </a>
   <br>
   <a href="https://github.com/dishantzaveri/github-readme-activity-graph">
