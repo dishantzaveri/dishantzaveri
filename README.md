@@ -8,15 +8,16 @@
 <h1 align="center">Hi 👋, I'm Dishant Zaveri</h1>
 <h3 align="center">A passionate AI ML and App Developer(Flutter and React Native) from India</h3>
 
+- 🎓 **Second Year Computer Engineering student at D. J. Sanghvi College of Engineering**.
 - 🔭 I’m currently working on **App Development**
-
 - 🌱 I’m currently learning **Frontend Web Development**
-
 - 👯 I’m looking to collaborate on **Flutter , React Native and Machine Learning Projects**
-
 - 📫 How to reach me **zaveridishant@gmail.com**
-
 - 👨‍💻 Freelancer
+- ⚡ Fun fact: I can spend my entire day in the gym.
+- 🥇 1st runner up at VJTI's 24 Hours Hackathon Technovanza 2022
+- 🥇 2nd runner up at TCET's Hackathon Hackanova 2022.
+- 
 <p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=dishantzaveri&label=Profile%20views&color=0e75b6&style=flat"
     alt="dishantzaveri" /> 
 </p>
