@@ -44,6 +44,9 @@
 
 <h1 align="center"> 📊 Statistics: </h1>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <p align="center">
   <a href="https://github.com/dishantzaveri/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=dishantzaveri&show_icons=true&bg_color=0d1117&text_color=40cfcd&border_color=444" height="165">
