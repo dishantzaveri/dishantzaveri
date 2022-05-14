@@ -11,7 +11,7 @@
 - 🎓 **Second Year Computer Engineering student at D. J. Sanghvi College of Engineering**.
 - 🔭 I’m currently working on **App Development**
 - 🌱 I’m currently learning **Frontend Web Development**
-- 👯 I’m looking to collaborate on **Flutter , React Native and Machine Learning Projects**
+- 👯 I’m looking to collaborate on **Open Source , Flutter , React Native and Machine Learning Projects**
 - 📫 How to reach me **zaveridishant@gmail.com**
 - 👨‍💻 Freelancer
 - ⚡ Fun fact: I can spend my entire day in the gym.
