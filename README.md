@@ -15,7 +15,7 @@
 - 📫 How to reach me **zaveridishant@gmail.com**
 - 👨‍💻 Freelancer
 - ⚡ Fun fact: I can spend my entire day in the gym.
-- 🥇 1st runner up at VJTI's 24 Hours Hackathon Technovanza 2022
+- 🥇 1st runner up at VJTI's 24 Hours Hackathon Technovanza 2022.
 - 🥇 2nd runner up at TCET's Hackathon Hackanova 2022.
 - 🥇 SIH 2022 finalist.
  
