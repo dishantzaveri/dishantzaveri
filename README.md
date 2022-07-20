@@ -17,6 +17,7 @@
 - ⚡ Fun fact: I can spend my entire day in the gym.
 - 🥇 1st runner up at VJTI's 24 Hours Hackathon Technovanza 2022
 - 🥇 2nd runner up at TCET's Hackathon Hackanova 2022.
+- 🥇 SIH 2022 finalist.
  
 <p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=dishantzaveri&label=Profile%20views&color=0e75b6&style=flat"
     alt="dishantzaveri" /> 
