@@ -45,8 +45,7 @@
 
 <h1 align="center"> 📊 Statistics: </h1>
 
-<!--START_SECTION:waka-->
-**I'm a Night 🦉** 
+<!--START_SECTION:waka-->* 
 
 ```text
 🌞 Morning    30 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.62% 
