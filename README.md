@@ -15,7 +15,7 @@
 - 📫 How to reach me **zaveridishant@gmail.com**
 - 👨‍💻 Freelancer
 - ⚡ Fun fact: I can spend my entire day in the gym.
-- 🥇 Smart India Hackthon 2022 finalist.
+- 🥇 Smart India Hackthon 2022 winner.
 - 🥇 1st runner up at VJTI's 24 Hours Hackathon Technovanza 2022.
 - 🥇 2nd runner up at TCET's Hackathon Hackanova 2022.
 - 🥇 Samsung Solve For Tomorrow 2022 top 50.
