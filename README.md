@@ -56,10 +56,10 @@
 
 ```text
 💬 Programming Languages: 
-Python                   0 secs              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-100DaysofPython-Bootcamp-0 secs              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
