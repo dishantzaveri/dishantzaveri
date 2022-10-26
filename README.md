@@ -38,6 +38,10 @@
 
 <br>
 
+<h1 align="center"> 📊 Badge Board: </h1>
+
+[![@dishantzaveri's Holopin board](https://holopin.me/dishantzaveri)](https://holopin.io/@dishantzaveri)
+
 <h1 align="center"> 📊 Statistics: </h1>
 
 <!--START_SECTION:waka-->
