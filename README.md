@@ -61,10 +61,10 @@
 
 ```text
 💬 Programming Languages: 
-Dart                     0 secs              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-UNESCO-India-Africa-Hacka0 secs              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
