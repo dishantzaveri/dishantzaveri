@@ -61,10 +61,10 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+HTML                     4 mins              █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Portfolio_Dishant        4 mins              █████████████████████████   100.0%
 
 ```
 
