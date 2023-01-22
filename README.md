@@ -18,7 +18,8 @@
 - 🥇 Smart India Hackathon 2022 winner.
 - 🥇 Finalist UNESCO India Africa Hackathon '22.
 - 🥇 1st runner-up at VJTI's 24 Hours Hackathon Technovanza 2022.
-- 🥇 2nd runner-up at TCET's Hackathon Hackanova 2022.
+- 🥇 2nd runner-up at TSEC's Hackathon RUBIX 2023.
+- 🥇 3rd place at TCET's Hackathon Hackanova 2022.
 - 🥇 Samsung Solve For Tomorrow 2022 top 50.
  
 <p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=dishantzaveri&label=Profile%20views&color=0e75b6&style=flat"
