@@ -17,6 +17,7 @@
 - ⚡ Fun fact: I can spend my entire day in the gym.
 - 🥇 Smart India Hackathon 2022 winner.
 - 🥇 Finalist UNESCO India Africa Hackathon '22.
+- 🥇 Finalist Luxembourg-India Hackathon '23.
 - 🥇 2nd place at VJTI's 24 Hours Hackathon Technovanza 2022.
 - 🥇 2nd place at TSEC's Hackathon RUBIX 2023.
 - 🥇 3rd place at TCET's Hackathon Hackanova 2022.
