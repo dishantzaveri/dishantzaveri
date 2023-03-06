@@ -21,6 +21,7 @@
 - 🥇 2nd place at VJTI's 24 Hours Hackathon Technovanza 2022.
 - 🥇 2nd place at TSEC's Hackathon RUBIX 2023.
 - 🥇 3rd place at TCET's Hackathon Hackanova 2022.
+- 🥇 3rd place at DJ Sanghvi's Hackathon ClashOfCodes 2023.
 - 🥇 Samsung Solve For Tomorrow 2022 top 50.
  
 <p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=dishantzaveri&label=Profile%20views&color=0e75b6&style=flat"
