@@ -11,13 +11,14 @@
 - 🎓 **Third Year Computer Engineering student at D. J. Sanghvi College of Engineering**.
 - 🔭 I’m currently working on **App Development**
 - 🌱 I’m currently learning **Frontend Web Development - React and Backend Development - Node**
-- 👯 I’m looking to collaborate on **Open Source , Flutter , React Native and Machine Learning Projects**
+- 👯 I’m looking to collaborate on **Open Source, Flutter , React Native, and Machine Learning Projects**
 - 📫 How to reach me **zaveridishant@gmail.com**
 - 👨‍💻 Freelancer
 - ⚡ Fun fact: I can spend my entire day in the gym.
 - 🥇 Smart India Hackathon 2022 winner.
 - 🥇 Finalist UNESCO India Africa Hackathon '22.
 - 🥇 Finalist Luxembourg-India Hackathon '23.
+- 🥇 Finalist Singapore-India Hackathon '23.
 - 🥇 Winner of Codeshastra 9.0 '23.
 - 🥇 2nd place at VJTI's 24 Hours Hackathon Technovanza 2022.
 - 🥇 2nd place at TSEC's Hackathon RUBIX 2023.
