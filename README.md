@@ -65,10 +65,10 @@
 
 ```text
 💬 Programming Languages: 
-JavaScript               10 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-developerFolio           10 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
