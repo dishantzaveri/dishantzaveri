@@ -8,8 +8,8 @@
 <h1 align="center">Hi 👋, I'm Dishant Zaveri</h1>
 <h3 align="center">A passionate AI ML and App Developer(Flutter and React Native) from India</h3>
 
-- 🎓 **Final Year Computer Engineering student at D. J. Sanghvi College of Engineering**.
-- 🔭 I’m currently working on **App Development and Machine Learning**
+ - 🎓 **Master's in Computer Science student at Texas A&M University College Station ACTIVELY LOOKING FOR SUMMER 2025 INTERNSHIPS**.
+- 🔭 I’m currently working on **Software Development and Machine Learning**
 - 🌱 I’m currently learning **Frontend Web Development - React and Backend Development - Node**
 - 👯 I’m looking to collaborate on **Open Source, Flutter, React Native, and Machine Learning Projects**
 - 📫 How to reach me **zaveridishant@gmail.com**
