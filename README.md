@@ -70,10 +70,10 @@
 
 ```text
 💬 Programming Languages: 
-C++                      0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-lab-1-solution           0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
