@@ -70,10 +70,10 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+SSH Config               15 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Unknown Project          15 mins             █████████████████████████   100.00 % 
 ```
 
 
