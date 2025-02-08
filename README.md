@@ -70,10 +70,10 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+R                        2 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+SIH-main                 2 mins              █████████████████████████   100.00 % 
 ```
 
 
