@@ -70,10 +70,10 @@
 
 ```text
 💬 Programming Languages: 
-Bash                     18 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-activity-4-solution      18 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
