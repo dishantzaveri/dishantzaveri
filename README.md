@@ -70,18 +70,18 @@
 
 ```text
 💬 Programming Languages: 
-Python                   1 hr 5 mins         █████████░░░░░░░░░░░░░░░░   35.36 % 
-Markdown                 1 hr 4 mins         █████████░░░░░░░░░░░░░░░░   34.88 % 
-Bash                     13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.15 % 
-SSH Config               12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.66 % 
-C++                      10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
+Markdown                 1 hr 4 mins         ████████████░░░░░░░░░░░░░   49.22 % 
+Bash                     13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.09 % 
+SSH Config               12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.40 % 
+Python                   11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.77 % 
+C++                      10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 % 
 
 🐱‍💻 Projects: 
-StriverDSA               56 mins             ████████░░░░░░░░░░░░░░░░░   30.55 % 
-LabsPA                   33 mins             █████░░░░░░░░░░░░░░░░░░░░   18.01 % 
-lab-3-user-space-thread-l14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
-Unknown Project          12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.66 % 
-lab-3-user-space-thread-l9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
+LabsPA                   33 mins             ██████░░░░░░░░░░░░░░░░░░░   25.41 % 
+lab-3-user-space-thread-l14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.10 % 
+Unknown Project          12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.40 % 
+lab-3-user-space-thread-l9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.31 % 
+lab-3-user-space-thread-l9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.19 % 
 ```
 
 
