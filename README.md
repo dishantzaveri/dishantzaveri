@@ -70,18 +70,10 @@
 
 ```text
 💬 Programming Languages: 
-Markdown                 44 mins             ███████████░░░░░░░░░░░░░░   42.61 % 
-Python                   15 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.01 % 
-Bash                     11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.35 % 
-C++                      9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.49 % 
-C                        8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 % 
+Python                   11 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-LabsPA                   28 mins             ███████░░░░░░░░░░░░░░░░░░   27.51 % 
-lab-3-user-space-thread-l14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.83 % 
-lab-3-user-space-thread-l9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.96 % 
-lab-4-signals-dishantzave8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 % 
-lab-3-user-space-thread-l7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.73 % 
+StriverDSA               11 mins             █████████████████████████   100.00 % 
 ```
 
 
