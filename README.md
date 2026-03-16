@@ -70,10 +70,10 @@
 
 ```text
 💬 Programming Languages: 
-Python                   40 mins             █████████████████████████   100.00 % 
+Python                   32 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-StriverDSA               40 mins             █████████████████████████   100.00 % 
+StriverDSA               32 mins             █████████████████████████   100.00 % 
 ```
 
 
