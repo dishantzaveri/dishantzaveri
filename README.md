@@ -70,16 +70,17 @@
 
 ```text
 💬 Programming Languages: 
-Python                   28 mins             ████████████████████░░░░░   79.09 % 
-JavaScript               4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.94 % 
-Markdown                 2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
-C                        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
+Python                   27 mins             ████████████████████░░░░░   78.81 % 
+JavaScript               4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.10 % 
+Markdown                 2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.14 % 
+C                        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
 Makefile                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🐱‍💻 Projects: 
-StriverDSA               30 mins             █████████████████████░░░░   84.80 % 
-DishantPortfolio         4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.94 % 
-lab-3-user-space-thread-l0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
+StriverDSA               29 mins             █████████████████████░░░░   84.59 % 
+DishantPortfolio         4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.10 % 
+lab-3-user-space-thread-l0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
+LabsPA                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 ```
 
 
