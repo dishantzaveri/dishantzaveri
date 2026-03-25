@@ -70,14 +70,12 @@
 
 ```text
 💬 Programming Languages: 
-JavaScript               4 mins              █████████████████░░░░░░░░   69.32 % 
-Markdown                 2 mins              ████████░░░░░░░░░░░░░░░░░   30.60 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+JavaScript               4 mins              █████████████████████████   99.88 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 
 🐱‍💻 Projects: 
-DishantPortfolio         4 mins              █████████████████░░░░░░░░   69.32 % 
-StriverDSA               2 mins              ████████░░░░░░░░░░░░░░░░░   30.60 % 
-LabsPA                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+DishantPortfolio         4 mins              █████████████████████████   99.88 % 
+LabsPA                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 ```
 
 
