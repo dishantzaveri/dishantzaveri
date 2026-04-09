@@ -70,14 +70,16 @@
 
 ```text
 💬 Programming Languages: 
-C++                      17 mins             ████████████████████░░░░░   78.52 % 
-Git Config               2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.52 % 
-Python                   1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+Bash                     5 mins              ████████████████████████░   95.35 % 
+SSH Config               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
 
 🐱‍💻 Projects: 
-lab-5-thread-pools-Tushar17 mins             ████████████████████░░░░░   78.80 % 
-LabsPA                   4 mins              █████░░░░░░░░░░░░░░░░░░░░   21.20 % 
+LabsPA                   2 mins              ████████████░░░░░░░░░░░░░   47.77 % 
+pa-2-fat-file-system-aadi2 mins              ████████████░░░░░░░░░░░░░   46.18 % 
+Unknown Project          0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
+pa-2-fat-file-system-aksh0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
+pa-2-fat-file-system-ajim0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
 ```
 
 
