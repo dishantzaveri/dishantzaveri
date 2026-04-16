@@ -70,16 +70,10 @@
 
 ```text
 💬 Programming Languages: 
-Bash                     5 mins              ████████████████████████░   95.36 % 
-SSH Config               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
+Bash                     0 secs              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-LabsPA                   2 mins              ████████████░░░░░░░░░░░░░   47.78 % 
-pa-2-fat-file-system-aadi2 mins              ████████████░░░░░░░░░░░░░   46.17 % 
-Unknown Project          0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
-pa-2-fat-file-system-aksh0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
-pa-2-fat-file-system-ajim0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
+LabsPA                   0 secs              █████████████████████████   100.00 % 
 ```
 
 
