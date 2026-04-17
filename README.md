@@ -70,10 +70,10 @@
 
 ```text
 💬 Programming Languages: 
-Bash                     0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-LabsPA                   0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
