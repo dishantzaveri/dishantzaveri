@@ -70,10 +70,12 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   20 mins             ████████████████████████░   97.05 % 
+Git Config               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+computervisionflooddetect21 mins             █████████████████████████   100.00 % 
 ```
 
 
