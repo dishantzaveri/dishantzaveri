@@ -70,12 +70,12 @@
 
 ```text
 💬 Programming Languages: 
-Python                   20 mins             ████████████████████████░   97.05 % 
-Git Config               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
+Python                   57 mins             ███████████████████████░░   91.46 % 
+Git Config               5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
 
 🐱‍💻 Projects: 
-computervisionflooddetect21 mins             █████████████████████████   100.00 % 
+computervisionflooddetect1 hr 2 mins         █████████████████████████   100.00 % 
 ```
 
 
