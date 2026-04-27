@@ -70,18 +70,18 @@
 
 ```text
 💬 Programming Languages: 
-Java                     1 hr 29 mins        ██████████░░░░░░░░░░░░░░░   41.71 % 
-Python                   1 hr 8 mins         ████████░░░░░░░░░░░░░░░░░   31.99 % 
-Bash                     14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.66 % 
-Markdown                 12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
-Text                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.22 % 
+Java                     1 hr 45 mins        █████████████░░░░░░░░░░░░   50.47 % 
+Python                   47 mins             ██████░░░░░░░░░░░░░░░░░░░   22.81 % 
+Bash                     14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.84 % 
+Markdown                 12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
+Text                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.37 % 
 
 🐱‍💻 Projects: 
-DISHANT                  2 hrs 2 mins        ██████████████░░░░░░░░░░░   57.18 % 
-computervisionflooddetect1 hr 2 mins         ███████░░░░░░░░░░░░░░░░░░   29.13 % 
-Javacode                 16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 % 
-files                    6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
-MicroserviceTutorials    6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
+DISHANT                  2 hrs 18 mins       █████████████████░░░░░░░░   66.37 % 
+computervisionflooddetect40 mins             █████░░░░░░░░░░░░░░░░░░░░   19.56 % 
+Javacode                 16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 % 
+files                    6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
+MicroserviceTutorials    6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
 ```
 
 
