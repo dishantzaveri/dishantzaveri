@@ -70,17 +70,16 @@
 
 ```text
 💬 Programming Languages: 
-Java                     1 hr 34 mins        ████████████░░░░░░░░░░░░░   48.22 % 
-Python                   32 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.54 % 
-Markdown                 29 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.84 % 
-TypeScript               24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.43 % 
-JSON                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
+TypeScript               40 mins             ███████░░░░░░░░░░░░░░░░░░   28.27 % 
+Python                   32 mins             ██████░░░░░░░░░░░░░░░░░░░   22.99 % 
+Markdown                 29 mins             █████░░░░░░░░░░░░░░░░░░░░   20.53 % 
+Java                     21 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.36 % 
+JSON                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
 
 🐱‍💻 Projects: 
-DISHANT                  2 hrs 41 mins       █████████████████████░░░░   82.58 % 
-minicloudvision          19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.12 % 
-Javacode                 8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 % 
-MicroserviceTutorials    6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
+DISHANT                  1 hr 37 mins        █████████████████░░░░░░░░   68.15 % 
+minicloudvision          39 mins             ███████░░░░░░░░░░░░░░░░░░   27.56 % 
+MicroserviceTutorials    6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
 ```
 
 
