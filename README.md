@@ -70,15 +70,16 @@
 
 ```text
 💬 Programming Languages: 
-TypeScript               33 mins             ████████░░░░░░░░░░░░░░░░░   31.58 % 
-Python                   32 mins             ████████░░░░░░░░░░░░░░░░░   30.76 % 
-Markdown                 24 mins             ██████░░░░░░░░░░░░░░░░░░░   23.49 % 
-JSON                     7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.29 % 
-YAML                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
+TypeScript               16 mins             ███████████████████░░░░░░   75.78 % 
+YAML                     2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.93 % 
+Git Config               1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   06.40 % 
+Python                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
+Markdown                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
 
 🐱‍💻 Projects: 
-DISHANT                  1 hr 5 mins         ████████████████░░░░░░░░░   62.46 % 
-minicloudvision          39 mins             █████████░░░░░░░░░░░░░░░░   37.54 % 
+minicloudvision          19 mins             ███████████████████████░░   92.29 % 
+computervisionflooddetect1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   06.96 % 
+DISHANT                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
 ```
 
 
