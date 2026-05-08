@@ -70,16 +70,11 @@
 
 ```text
 💬 Programming Languages: 
-TypeScript               16 mins             ███████████████████░░░░░░   75.78 % 
-YAML                     2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.93 % 
-Git Config               1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   06.40 % 
-Python                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
-Markdown                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
+Git Config               1 min               ███████████████████████░░   92.01 % 
+Markdown                 0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 % 
 
 🐱‍💻 Projects: 
-minicloudvision          19 mins             ███████████████████████░░   92.29 % 
-computervisionflooddetect1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   06.96 % 
-DISHANT                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
+computervisionflooddetect1 min               █████████████████████████   100.00 % 
 ```
 
 
