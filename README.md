@@ -70,11 +70,13 @@
 
 ```text
 💬 Programming Languages: 
-Git Config               1 min               ███████████████████████░░   92.01 % 
-Markdown                 0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 % 
+Python                   40 mins             ████████████████████████░   96.48 % 
+Git Config               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
 
 🐱‍💻 Projects: 
-computervisionflooddetect1 min               █████████████████████████   100.00 % 
+StriverDSA               40 mins             ████████████████████████░   96.48 % 
+computervisionflooddetect1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
 ```
 
 
