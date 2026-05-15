@@ -56,29 +56,6 @@
 <h1 align="center"> 📊 Statistics: </h1>
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                315 commits         ███████░░░░░░░░░░░░░░░░░░   26.67 % 
-🌆 Daytime                433 commits         █████████░░░░░░░░░░░░░░░░   36.66 % 
-🌃 Evening                187 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.83 % 
-🌙 Night                  246 commits         █████░░░░░░░░░░░░░░░░░░░░   20.83 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Python                   40 mins             ████████████████████████░   96.48 % 
-Git Config               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
-
-🐱‍💻 Projects: 
-StriverDSA               40 mins             ████████████████████████░   96.48 % 
-computervisionflooddetect1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
-```
-
 
 <!--END_SECTION:waka-->
 
