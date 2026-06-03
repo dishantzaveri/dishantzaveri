@@ -70,10 +70,10 @@
 
 ```text
 💬 Programming Languages: 
-Python                   1 min               █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-StriverDSA               1 min               █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
