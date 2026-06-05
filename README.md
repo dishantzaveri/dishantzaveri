@@ -70,10 +70,14 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               2 mins              ███████████████████░░░░░░   76.94 % 
+Python                   0 secs              █████░░░░░░░░░░░░░░░░░░░░   20.59 % 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+minicloudvision          3 mins              █████████████████████████   98.02 % 
+AdvancedMCPServerWithAuth0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
 ```
 
 
