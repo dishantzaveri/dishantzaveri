@@ -70,14 +70,16 @@
 
 ```text
 💬 Programming Languages: 
-TypeScript               2 mins              ███████████████████░░░░░░   76.94 % 
-Python                   0 secs              █████░░░░░░░░░░░░░░░░░░░░   20.59 % 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+JSON                     15 mins             ████████████░░░░░░░░░░░░░   46.29 % 
+Bash                     14 mins             ███████████░░░░░░░░░░░░░░   43.10 % 
+TypeScript               2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
+Python                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 
 🐱‍💻 Projects: 
-minicloudvision          3 mins              █████████████████████████   98.02 % 
-AdvancedMCPServerWithAuth0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
+DISHANT                  15 mins             ████████████░░░░░░░░░░░░░   46.29 % 
+AdvancedMCPServerWithAuth14 mins             ███████████░░░░░░░░░░░░░░   43.38 % 
+minicloudvision          3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.33 % 
 ```
 
 
