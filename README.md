@@ -70,16 +70,17 @@
 
 ```text
 💬 Programming Languages: 
-JSON                     19 mins             ██████████░░░░░░░░░░░░░░░   41.36 % 
-Bash                     14 mins             ███████░░░░░░░░░░░░░░░░░░   29.45 % 
-Python                   10 mins             ██████░░░░░░░░░░░░░░░░░░░   22.62 % 
-TypeScript               2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.54 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
+Python                   37 mins             ████████████░░░░░░░░░░░░░   49.85 % 
+JSON                     19 mins             ███████░░░░░░░░░░░░░░░░░░   26.81 % 
+Bash                     14 mins             █████░░░░░░░░░░░░░░░░░░░░   19.09 % 
+TypeScript               2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
 
 🐱‍💻 Projects: 
-DISHANT                  29 mins             ███████████████░░░░░░░░░░   61.19 % 
-AdvancedMCPServerWithAuth15 mins             ████████░░░░░░░░░░░░░░░░░   31.76 % 
-minicloudvision          3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.06 % 
+DISHANT                  50 mins             █████████████████░░░░░░░░   68.32 % 
+AdvancedMCPServerWithAuth15 mins             █████░░░░░░░░░░░░░░░░░░░░   20.58 % 
+StriverDSA               4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
+minicloudvision          3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 % 
 ```
 
 
