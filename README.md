@@ -70,15 +70,11 @@
 
 ```text
 💬 Programming Languages: 
-Python                   36 mins             ██████████████████████░░░   87.75 % 
-JSON                     4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.32 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+Python                   26 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-DISHANT                  35 mins             █████████████████████░░░░   85.84 % 
-StriverDSA               4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.71 % 
-AdvancedMCPServerWithAuth1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
+DISHANT                  21 mins             ████████████████████░░░░░   81.46 % 
+StriverDSA               4 mins              █████░░░░░░░░░░░░░░░░░░░░   18.54 % 
 ```
 
 
