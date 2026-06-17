@@ -70,11 +70,10 @@
 
 ```text
 💬 Programming Languages: 
-Python                   26 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-DISHANT                  21 mins             ████████████████████░░░░░   81.46 % 
-StriverDSA               4 mins              █████░░░░░░░░░░░░░░░░░░░░   18.54 % 
+No Activity Tracked This Week
 ```
 
 
