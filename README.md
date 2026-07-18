@@ -70,10 +70,14 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 33 mins             ███████░░░░░░░░░░░░░░░░░░   29.55 % 
+Python                   22 mins             █████░░░░░░░░░░░░░░░░░░░░   19.64 % 
+HTML                     16 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.51 % 
+JavaScript               13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.61 % 
+Batchfile                10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.55 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+DISHANT                  1 hr 54 mins        █████████████████████████   100.00 % 
 ```
 
 
