@@ -59,10 +59,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                310 commits         ███████░░░░░░░░░░░░░░░░░░   26.98 % 
-🌆 Daytime                432 commits         █████████░░░░░░░░░░░░░░░░   37.60 % 
-🌃 Evening                177 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.40 % 
-🌙 Night                  230 commits         █████░░░░░░░░░░░░░░░░░░░░   20.02 % 
+🌞 Morning                315 commits         ███████░░░░░░░░░░░░░░░░░░   26.67 % 
+🌆 Daytime                433 commits         █████████░░░░░░░░░░░░░░░░   36.66 % 
+🌃 Evening                187 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.83 % 
+🌙 Night                  246 commits         █████░░░░░░░░░░░░░░░░░░░░   20.83 % 
 ```
 
 
@@ -70,14 +70,10 @@
 
 ```text
 💬 Programming Languages: 
-Markdown                 33 mins             ███████░░░░░░░░░░░░░░░░░░   29.55 % 
-Python                   22 mins             █████░░░░░░░░░░░░░░░░░░░░   19.64 % 
-HTML                     16 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.51 % 
-JavaScript               13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.61 % 
-Batchfile                10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.55 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-DISHANT                  1 hr 54 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
