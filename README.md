@@ -72,10 +72,12 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Git Config               2 mins              ████████████████████████░   96.29 % 
+INI                      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+video-llm-boe            2 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
