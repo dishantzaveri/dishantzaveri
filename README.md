@@ -56,13 +56,15 @@
 <h1 align="center"> 📊 Statistics: </h1>
 
 <!--START_SECTION:waka-->
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-36%20mins-blue?style=flat)
+
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                315 commits         ███████░░░░░░░░░░░░░░░░░░   26.67 % 
-🌆 Daytime                433 commits         █████████░░░░░░░░░░░░░░░░   36.66 % 
-🌃 Evening                187 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.83 % 
-🌙 Night                  246 commits         █████░░░░░░░░░░░░░░░░░░░░   20.83 % 
+🌞 Morning                315 commits         ███████░░░░░░░░░░░░░░░░░░   26.23 % 
+🌆 Daytime                441 commits         █████████░░░░░░░░░░░░░░░░   36.72 % 
+🌃 Evening                193 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.07 % 
+🌙 Night                  252 commits         █████░░░░░░░░░░░░░░░░░░░░   20.98 % 
 ```
 
 
@@ -70,12 +72,10 @@
 
 ```text
 💬 Programming Languages: 
-Git Config               2 mins              ████████████████████████░   96.29 % 
-INI                      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-video-llm-boe            2 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
